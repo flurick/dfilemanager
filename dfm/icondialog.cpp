@@ -26,6 +26,7 @@
 #include <QDirIterator>
 #include <QImageReader>
 #include <QDebug>
+#include <QPainterPath>
 
 using namespace DFM;
 

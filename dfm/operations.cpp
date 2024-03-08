@@ -37,6 +37,7 @@
 #include "viewcontainer.h"
 #include "fsmodel.h"
 #include <math.h>
+#include <QPainterPath>
 
 #if defined(HASMAGIC)
 #include <magic.h>

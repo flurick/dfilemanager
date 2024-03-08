@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 2.8.11)
 
 project(dfm)
-option(QT5BUILD "build using qt5 instead of qt4" OFF)
+option(QT5BUILD "build using qt5 instead of qt4" ON)
 
 #find qt...
 if (QT5BUILD)

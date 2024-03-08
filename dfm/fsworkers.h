@@ -23,6 +23,7 @@
 #define FSWORKERS_H
 
 #include <QFileInfo>
+#include <QPainterPath>
 
 #include "objects.h"
 #include "dataloader.h"
